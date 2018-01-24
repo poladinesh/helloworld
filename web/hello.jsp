@@ -19,7 +19,7 @@
   <br />
   <p>This is the output of a JSP page that is part of the HelloWorld application.</p>
 
-  <%= new String("Hello Sindhu- Battu!") %>
+  <%= new String("Hello Sindhu- Battu Pola!") %>
 
   </body>
 </html> 
